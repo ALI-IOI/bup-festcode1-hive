@@ -1,0 +1,9 @@
+This project links GLPK, which is licensed under the GNU General Public License
+version 3. This project is therefore distributed under the GPL v3.
+
+See https://www.gnu.org/licenses/gpl-3.0.txt for the full licence text.
+
+Third-party components:
+  GLPK    — GPL v3        — https://www.gnu.org/software/glpk/
+  cJSON   — MIT           — https://github.com/DaveGamble/cJSON  (vendored)
+  libcurl — curl licence  — https://curl.se/docs/copyright.html
